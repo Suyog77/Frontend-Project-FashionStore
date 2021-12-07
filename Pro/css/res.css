@@ -1,0 +1,48 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 20px;
+    padding: 0px 8px;
+    padding-bottom: 10px;
+}
+
+
+/* Home */
+
+#home{
+    height: 490px;
+    padding: 3px 80px;
+}
+#home::before{
+    height: 500px;
+    width: 120%;
+}
+
+#home p{
+    font-size: 10px;
+}
+
+
+.heading{
+    font-size:20px;
+    height: 70px;
+}
+/* services */
+ #services{
+    flex-direction: column;
+}
+
+/* contact */
+#frbox{
+    width: 120%;
+    padding: 40px 20px;
+}
+
+#frbox form{
+    width: 60%;
+}
+
+/* footer */
